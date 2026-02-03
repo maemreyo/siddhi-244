@@ -1,102 +1,190 @@
 <h1 align="center">Hi, I'm Siddhi Bhanushali 👋</h1>
 <p align="center">
-  <em>Software Developer | Backend Developer | Android Developer</em><br/>
+  <em>MS CS @ Northeastern | Software Engineer (Backend & Android) | Building Scalable Systems & AI-Powered Tools</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhi-bhanushali/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/siddhi-244"><img src="https://img.shields.io/github/followers/siddhi-244?label=Follow&style=social"></a>
   <a href="https://siddhi-bhanushali.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome"></a>
+  <a href="mailto:bhanushali.sid@northeastern.edu"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-🚀 Software Developer with experience in building scalable systems, powerful backend APIs, and intuitive Android apps.  
-📱 Developed a full-fledged custom Android browser using Jetpack Compose, Firefox Components, and native-JS integration.  
-🎯 Focused on performance, clean architecture, and low-latency UX.  
+🎓 **MS Computer Science** @ Northeastern University (GPA: 4.0/4.0) | Seeking **Summer 2026 Internships**
+
+💼 **2+ years** of industry experience building scalable backend systems, AI-powered automation, and Android applications
+
+🤖 Built **CrawlMate** – an AI-powered web scraping platform automating data extraction from **100+ websites**, reducing manual effort by **80%**
+
+📱 Developed a **custom Android browser** (Kotlin + Jetpack Compose) with **10K+ downloads** and **sub-100ms API response times**
+
+☁️ Architected **distributed systems** using Google Cloud Pub/Sub and optimized Golang APIs serving **10K+ daily active users**
 
 ---
 
-### 🧠 Technical Skills
+### 🛠️ Tech Stack
 
-#### 🔹 Programming Languages
-`Kotlin` `Java` `C++` `JavaScript` `TypeScript` `Python` `PHP` `HTML` `CSS`
+#### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### 🔹 Frameworks & Libraries
-`Android` `Jetpack Compose` `Room` `Flutter` `React.js` `Node.js` `Express` `Spring Boot` `Hibernate` `Dropwizard` `Laravel` `Bootstrap` `JQuery`
+#### Android & Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-#### 🔹 Databases
-`MySQL` `PostgreSQL` `MongoDB` `Firebase` `SQLite`
+#### Backend & Web
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-#### 🔹 Tools & Platforms
-`AWS` `Google Cloud Pub/Sub` `Docker` `Jenkins` `Redis` `Kafka` `Git` `CI/CD Pipelines` `Postman` `IntelliJ IDEA` `Android Studio` `VS Code`
-
-#### 🔹 Core Concepts
-`Data Structures & Algorithms` `Object-Oriented Programming`  
-`Low-Level Design` `Database Management Systems (DBMS)`  
-`Microservices Architecture` `RESTful APIs`
-
----
-
-### 💼 Experience Highlights
-
-**🔹 Sellergize – Software Developer**  
-- Created an OpenAI-based automation tool, reducing manual effort by 30%.  
-- Designed and deployed scalable asynchronous pipelines using Google Pub/Sub.  
-- Built a custom Android browser with advanced features like bookmarks, tab groups, wishlist, and extension support.  
-- Reduced API latency by 12% and improved team delivery timelines by 15%.
-
-**🔹 Tala – Software Engineering Intern**  
-- Secured Java backend endpoints using Dropwizard, reducing vulnerabilities by 18%.  
-- Automated cron jobs via AWS Lambda and enhanced payment flow using Razorpay.  
-- Created architecture diagrams and documentation to reduce onboarding time.
+#### Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-### 🚀 Projects
+### 💼 Experience
 
-🔗 [**EduConnect**](https://github.com/siddhi-244/EduConnect) | [Live Demo](https://edu-connect-lac.vercel.app/)  
-A real-time scheduling platform connecting students and teachers using Firebase & Next.js.
+<table>
+<tr>
+<td width="50%">
 
-🔗 [**ExpenseVue**](https://github.com/siddhi-244/Expense-Tracker) | [Live Demo](https://siddhi-244.github.io/Expense-Tracker/)  
-An intuitive expense tracker with filters and chart visualization using React.
+**🔹 Sellergize WTS** | Developer  
+*June 2023 – July 2025*
 
-🔗 [**GitTrackr**](https://github.com/siddhi-244/FindMe) | [Live Demo](https://siddhi-244.github.io/FindMe/)  
-GitHub user tracker built with Vanilla JS and GitHub API to visualize user data.
+- Engineered **CrawlMate**, an AI-powered scraping platform using Python, Selenium & OpenAI APIs – automating extraction from **100+ websites**
+- Built **OpenAI-integrated selector detection** eliminating **15+ hours** of manual mapping per website  
+- Created **AI prompt orchestration API Gateway** powering **5+ backend projects**
+- Architected **GCP Pub/Sub pipeline** with fault-tolerant subscribers
+- Developed **Golang REST APIs** with **sub-100ms latency** for **10K+ daily active users**
+- Built **Android browser** (Kotlin + Jetpack Compose) with **10K+ downloads**
+- Increased **coupon redemption by 25%** via real-time suggestions
+
+</td>
+<td width="50%">
+
+**🔹 Tala** | SWE Intern  
+*Feb 2023 – May 2023*
+
+- Secured **8+ REST APIs** using Java & Dropwizard with authentication filters
+- Automated **10+ workflows** via AWS Lambda & cron triggers
+- Improved Razorpay payment processing, reducing failed reconciliation by **20%**
+- Resolved **15+ production issues** with senior engineers
+- Authored documentation reducing onboarding time by **30%**
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📅 [Calendar App](https://github.com/siddhi-244/Calendar-App)
+*Java • Swing • Design Patterns*
+
+A calendar application with GUI and CLI support featuring:
+- **Finite state machine parser** handling 15+ command types
+- CRUD operations with series editing & conflict detection
+- Event querying and scheduling engine integration
+
+</td>
+<td width="50%">
+
+### 🎓 [EduConnect](https://github.com/siddhi-244/EduConnect) | [Live](https://edu-connect-lac.vercel.app/)
+*Next.js • Firebase • TypeScript*
+
+Real-time student-teacher scheduling platform:
+- Firebase Auth + Firestore for secure, real-time sync
+- **Atomic slot-booking** with conflict-free reservations
+- Role-based responsive UIs for students & teachers
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [ExpenseVue](https://github.com/siddhi-244/Expense-Tracker) | [Live](https://siddhi-244.github.io/Expense-Tracker/)
+*React • Chart.js*
+
+Intuitive expense tracking with:
+- Filter & search functionality
+- Visual chart breakdowns
+- Clean, responsive UI
+
+</td>
+<td width="50%">
+
+### 🔍 [GitTrackr](https://github.com/siddhi-244/FindMe) | [Live](https://siddhi-244.github.io/FindMe/)
+*Vanilla JS • GitHub API*
+
+GitHub user visualization tool:
+- Real-time user data fetching
+- Profile stats & repo display
+- Clean, minimal interface
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🎓 Education
 
-**🎓 University of Mumbai (2019–2023)**  
-Bachelor of Engineering – Computer Engineering  
-📈 Final CGPA: **9.49/10** | 🥉 Ranked 3rd in department
+| Degree | Institution | GPA | Timeline |
+|--------|-------------|-----|----------|
+| 🎓 **MS Computer Science** | Northeastern University | **4.0/4.0** | Sep 2025 – May 2027 |
+| 🎓 **BE Computer Engineering** | University of Mumbai | **3.8/4.0** (Rank #3) | Aug 2019 – May 2023 |
+
+**Coursework:** Object-Oriented Design (SOLID, Design Patterns), Web Application Development
 
 ---
 
 ### 🏆 Achievements
 
-🏅 Built an internal data pipeline in just Week 2 at Sellergize, powering 3 cross-team initiatives  
-🥇 Winner of **Diversion2k22** and **Diversion2k23**  
-🎖️ Maintained a top 3 rank throughout engineering with consistent academic performance
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhi-244&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhi-244&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
-</p>
+🥇 **Winner** – Diversion 2022 & Diversion 2023 Hackathons  
+🏅 **Top Mentor** – OpenCode 2022  
+📝 **Published** – "The Wingman: A WiFi-enabled Drone"  
+👨‍🏫 **Mentored 100+ students** in DSA preparation & career planning  
+🥉 **Ranked #3** in Computer Engineering department  
 
 ---
 
 ### 🤝 Let's Connect
 
-If you're passionate about mobile tech, backend systems, or building impactful digital solutions — feel free to connect!
+<p align="center">
+  <strong>Open to Backend, Android, and Full-Stack internships for Summer 2026!</strong>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:bhanushali.sid@northeastern.edu">bhanushali.sid@northeastern.edu</a> • 
+  💼 <a href="https://www.linkedin.com/in/siddhi-bhanushali/">LinkedIn</a> • 
+  🌐 <a href="https://siddhi-bhanushali.netlify.app">Portfolio</a>
+</p>
 
 ---
 
-_“The only way to do great work is to love what you do.” – Steve Jobs_
+<p align="center">
+  <em>"The only way to do great work is to love what you do." – Steve Jobs</em>
+</p>
