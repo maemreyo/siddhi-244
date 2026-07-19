@@ -69,7 +69,7 @@
 **🔹 Sellergize WTS** | Developer  
 *June 2023 – July 2025*
 
-- Engineered **CrawlMate**, an AI-powered scraping platform using Python, Selenium & OpenAI APIs – automating extraction from **100+ websites**
+- Engineered an AI-powered scraping platform using Python, Selenium & OpenAI APIs – automating extraction from **100+ websites**
 - Built **OpenAI-integrated selector detection** eliminating **15+ hours** of manual mapping per website  
 - Created **AI prompt orchestration API Gateway** powering **5+ backend projects**
 - Architected **GCP Pub/Sub pipeline** with fault-tolerant subscribers
