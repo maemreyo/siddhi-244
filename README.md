@@ -18,7 +18,7 @@
 
 💼 **2+ years** of industry experience building scalable backend systems, AI-powered automation, and Android applications
 
-🤖 Built **CrawlMate** – an AI-powered web scraping platform automating data extraction from **100+ websites**, reducing manual effort by **80%**
+🤖 Built an AI-powered web scraping platform automating data extraction from **100+ websites**, reducing manual effort by **80%**
 
 📱 Developed a **custom Android browser** (Kotlin + Jetpack Compose) with **10K+ downloads** and **sub-100ms API response times**
 
